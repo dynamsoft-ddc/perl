@@ -1,0 +1,4 @@
+{
+  "ocrBaseUri": "https://cloud.dynamsoft.com/Rest/ocr/v1.1/file",
+  "apiKey": "YourOwnApiKey"
+}
